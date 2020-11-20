@@ -1,0 +1,3 @@
+# embeddings
+
+- storing embeddings
